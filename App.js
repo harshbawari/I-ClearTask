@@ -5,17 +5,8 @@ import HomeScreen from './src/screens/HomeScreen';
 
 function App() {
   return (
-    <>
-      <StatusBar barStyle="light-content" />
-      <SafeAreaView>
-        <HomeScreen />
-      </SafeAreaView>
-    </>
+    <HomeScreen />
   );
 }
-
-const styles = StyleSheet.create({
-
-});
 
 export default App;
