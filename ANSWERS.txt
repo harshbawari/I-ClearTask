@@ -1,0 +1,20 @@
+1. What's your favourite state management library for react and why?
+
+Ans) Redux, because till now I've only learnt this one. But I can quickly adapt to any new library.
+
+
+2. Write some react native best practices.
+
+Ans) Making reusable components.
+     Well Organised code.
+     Organised file structure.
+
+
+3. Which coding style you prefer wet or dry and why?
+
+Ans) Initially to solve a problem, I use wet coding, but gradually I transform that code into dry code for long term usability.
+
+
+4. What do you prefer expo or vanilla react native and why?
+
+Ans) React Native CLI, it provides more flexibility.
